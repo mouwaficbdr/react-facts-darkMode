@@ -109,7 +109,7 @@ nav.dark .toggler--slider {
 /* MAIN styles */
 main {
     padding: 57px 27px;
-    background-image: url("./images/react-icon-light.png"); 
+    background-image: url("./assets/"); 
     background-repeat: no-repeat;
     background-position: right center;
     flex: 1 1 auto;
@@ -118,9 +118,10 @@ main {
 }
 
 main.dark {
-    background-image: url("./images/react-icon-dark.png"); 
+    background-image: url("./assets/reactjs-icon\ 2.png"); 
     background-color: #282D35;
-    color: white;    
+    color: white;
+    background-size: 200px;    
 }
 
 .main--title {
